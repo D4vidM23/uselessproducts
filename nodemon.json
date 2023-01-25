@@ -1,0 +1,5 @@
+{
+  "ext": "js, html, css, pug",
+  "start": "node ./bin/www",
+  "watch": "nodemon ./bin/www --ignore public/"
+}
